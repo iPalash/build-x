@@ -6,6 +6,7 @@
 - Part 2: MLP
   - https://www.youtube.com/watch?v=TCH_1BHY58I&ab_channel=AndrejKarpathy
   - [ ] Read the linked paper #todo
+  - [ ] http://blog.ezyang.com/2019/05/pytorch-internals/
 - 
 
 ## Objective
