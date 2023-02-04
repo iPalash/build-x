@@ -1,7 +1,12 @@
 # Makemore 
 ### Source
-- https://www.youtube.com/watch?v=PaCmpygFfXo&ab_channel=AndrejKarpathy
 - https://github.com/karpathy/makemore
+- Part 1 : Counts
+  - https://www.youtube.com/watch?v=PaCmpygFfXo&ab_channel=AndrejKarpathy
+- Part 2: MLP
+  - https://www.youtube.com/watch?v=TCH_1BHY58I&ab_channel=AndrejKarpathy
+  - [ ] Read the linked paper #todo
+- 
 
 ## Objective
 - "Make more" of what you give it
@@ -9,3 +14,4 @@
 - Approaches
   - Bigram
   - Bag of words
+  - MLP
