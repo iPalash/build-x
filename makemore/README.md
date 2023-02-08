@@ -17,6 +17,9 @@
   - Introduced pytorch like modules to stack up into NNs
   - Diagnosing the NN : activations, gradients , weights and learning rates
     - Focus on the update ratio to see if the LR is correct : should be around a 1000 times
+- Part 4 : Backpropogation
+  - [ ] Followup:Read the article https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
+  - Doing backprop by code manually instead of autograd
 
 ## Objective
 - "Make more" of what you give it
