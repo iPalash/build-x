@@ -20,6 +20,10 @@
 - Part 4 : Backpropogation
   - [ ] Followup:Read the article https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
   - Doing backprop by code manually instead of autograd
+- Part 5 : Complexify the NN architecture
+  - Deeper layers which progressively fuse : Wavenet
+  - Starting with model from part 3
+  - [ ] Read the wavenet paper
 
 ## Objective
 - "Make more" of what you give it
